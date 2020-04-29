@@ -10,5 +10,5 @@ Got a question?  Visit https://www.evopayments.mx/contacto/ for development help
 ## Installation Guides
 
 For instructions on how to install the plugin on PrestaShop please use the following links:
-* [PrestaShop 1.6](https://github.com/EVO-Mexico/Prestashop_plugin/wiki/PrestaShop-1.6
+* [PrestaShop 1.6](https://github.com/EVO-Mexico/Prestashop_plugin/wiki/PrestaShop-1.6)
 * [PrestaShop 1.7](https://github.com/EVO-Mexico/Prestashop_plugin/wiki/PrestaShop-1.7)
